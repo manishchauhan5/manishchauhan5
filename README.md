@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express.js**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/manish-chauhan-351058206](https://www.linkedin.com/in/manish-chauhan-351058206)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/manish-chauhan-351058206/](https://www.linkedin.com/in/manish-chauhan-351058206/)
 
 - 📫 How to reach me **mkchauhan300@gmail.com**
 
